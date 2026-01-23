@@ -1,0 +1,1 @@
+This repository showcases my work on Data Structures and Algorithms, focusing on efficient implementations and problem-solving techniques. It includes commonly used data structures and algorithmic approaches that are essential for technical interviews and competitive programming. The repository serves as both a learning resource and a reference for future use.
